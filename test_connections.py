@@ -5,4 +5,4 @@ def greet_team():
 
 if __name__ == "__main__":
     greet_team()
-    print("Successfully connected to the github repository.")
+    print("Hello Vishal")
